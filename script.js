@@ -8,7 +8,7 @@ audiogo = new Audio('/mixkit-arcade-space-shooter-dead-notification-272.wav');
 
 setTimeout(() => {
 
-    // audio.play()
+    audio.play()
 
 }, 1000);
 
